@@ -57,10 +57,10 @@ Je maîtrise les technologies actuelles pour vous livrer un site web à votre im
   <a href="https://aminenahi.netlify.app/">
     <img src="https://img.shields.io/badge/Mon_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:ton.email@exemple.com">
+  <a href="mailto:nahiamine1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/TON_PROFIL_LINKEDIN">
+  <a href="https://www.linkedin.com/in/amine-nahi-735a72343/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
