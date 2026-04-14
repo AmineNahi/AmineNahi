@@ -45,8 +45,8 @@ Je maîtrise les technologies actuelles pour vous livrer un site web à votre im
 ### 📊 Statistiques & Activité
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmineNahi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Statistiques de Amine" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNahi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmineNahi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1&cache_seconds=86400" height="165" alt="Statistiques de Amine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineNahi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=1&cache_seconds=86400" height="165" alt="Top Langages" />
 </div>
 
 ---
