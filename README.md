@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://aminenahi.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Bonjour,+je+suis+Nahi+Amine+👋;D%C3%A9veloppeur+Full+Stack;Passionn%C3%A9+par+l'innovation+num%C3%A9rique;Cr%C3%A9ateur+de+sites+sur-mesure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Bonjour,+je+suis+Nahi+Amine+👋;D%C3%A9veloppeur+Backend+%26+Full+Stack;Passionn%C3%A9+par+l'architecture+logicielle;Cr%C3%A9ateur+de+solutions+sur-mesure" alt="Typing SVG" />
   </a>
   <br>
   <p><b>Étudiant en BUT Informatique & Développeur Freelance</b></p>
@@ -10,16 +10,9 @@
 
 ### 👨‍💻 À propos de moi
 
-Je me spécialise dans la création de sites vitrine modernes et sur-mesure pour les artisans, indépendants et petites entreprises. 
+Étudiant en 2ème année de BUT Informatique, je suis passionné par l'architecture logicielle et je recherche un poste pour contribuer au développement de solutions techniques exigeantes. Rigoureux et autonome, j'ai à cœur de travailler dans des environnements respectant de hauts standards de sécurité.
 
-**Vous souhaitez :**
-* 🚀 Un site rapide et qui s'affiche parfaitement sur mobile ?
-* 💼 Une vitrine professionnelle pour attirer de nouveaux clients ?
-* 🔄 Moderniser un site existant qui ne vous représente plus ?
-
-Je maîtrise les technologies actuelles pour vous livrer un site web à votre image, optimisé pour le référencement (SEO). 
-
-✨ **Je cherche mes 3 premiers clients motivés !** En échange de votre confiance, je vous propose des tarifs préférentiels et un suivi personnalisé.
+Je propose également mes services en freelance pour la création de sites vitrine modernes et sur-mesure pour les artisans et indépendants.
 
 ---
 
@@ -27,7 +20,7 @@ Je maîtrise les technologies actuelles pour vous livrer un site web à votre im
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,flutter,dart,cpp,php,git,github&perline=6" alt="Mes compétences" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,python,java,cpp,flutter,dart,react,html,css,git&perline=6" alt="Mes compétences" />
   </a>
 </div>
 
@@ -35,10 +28,10 @@ Je maîtrise les technologies actuelles pour vous livrer un site web à votre im
 
 ### 📁 Mes Projets Phares
 
+* 🎓 **Plateforme de Mobilité Internationale (AMU)** : Conception et déploiement d'une application MVC pour la gestion des dossiers étudiants d'Aix-Marseille Université. Développement d'un moteur d'importation sécurisé et d'interfaces dynamiques. *(PHP, MySQL, JS)*
+* 📱 **CodeBrief (Google Play Store)** : Application multi-plateforme (Web, Mobile, Desktop) d'organisation pensée pour les développeurs. Gestion des projets, tâches et ressources GitHub avec persistance de données locales. *(Flutter, Dart)*
 * 👻 **Jeu Pac-Man** : Un jeu original en C++ où vous incarnez Pac-Man, avec un système de projectiles contre les fantômes.
-* 📱 **Gestion de Projet (Flutter)** : Application de gestion de projet par catégorie avec cahier des charges intégré.
 * 🏆 **Sunne-Sport** : Site web (PHP/JS) de gestion de tournoi e-sport à l'IUT d'Aix-en-Provence (Inscriptions, suivi des matchs).
-* 🌐 **Portfolio Dynamique** : Site portfolio avec animations et back-end Flask.
 
 ---
 
@@ -57,10 +50,10 @@ Je maîtrise les technologies actuelles pour vous livrer un site web à votre im
   <a href="https://aminenahi.netlify.app/">
     <img src="https://img.shields.io/badge/Mon_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:nahiamine1@gmail.com">
+  <a href="mailto:exemple@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/amine-nahi-735a72343/">
+  <a href="https://linkedin.com/in/TON_PROFIL_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
