@@ -55,6 +55,14 @@ Actuellement en **2ème année de BUT Informatique**, je combine une approche ac
 
 ---
 
+### 💼 Expériences Professionnelles
+
+* **Stage Développeur - Moscatelli (10 semaines)**
+    * Automatisation de processus internes et développement d'outils de gestion de données.
+    * Conception d'applications sur-mesure pour optimiser les flux de travail de l'entreprise.
+
+---
+
 ### 📁 Projets Majeurs (Inspirés de mon Portfolio)
 
 | Projet | Description | Stack |
